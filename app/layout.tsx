@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   description: 'A ReactJS frontend developer portfolio',
   manifest: '/manifest.json',
   icons: { apple: '/64.png' },
+  themeColor: '#fff',
 };
 
 export default function RootLayout({
