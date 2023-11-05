@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Isiaq Ridwan Bukola's Portfolio",
   description: 'A ReactJS frontend developer portfolio',
   manifest: '/manifest.json',
-  icons: { apple: '/16.png' },
+  icons: { apple: '/64.png' },
 };
 
 export default function RootLayout({
